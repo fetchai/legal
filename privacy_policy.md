@@ -6,7 +6,7 @@
 
 Before accessing or utilizing our Products & Services, which encompass the Websites defined herein, collectively referred to as the “Service,” kindly peruse this Privacy Policy (“Privacy Policy”). This document dictates the categories of information and data we gather, as well as the manner in which we utilize and distribute said information. Your entitlement to access and utilize the Service is contingent upon your acceptance of the Terms of Service, accessible via the following link: [https://www.fetch.ai/terms](https://www.fetch.ai/terms) (“Terms of Service”), which incorporate the provisions of the Privacy Policy delineated below. The Service is operated by FETCH.AI (“Company”). We utilize your data for the provision and enhancement of the Service. By engaging with the Service, you implicitly consent to the collection and utilization of information in accordance with the stipulations outlined herein. In the absence of specific definitions within this Privacy Policy, the terminology employed herein retains the same connotations as defined in our Terms of Service.
 
-# 2\. Definitions and Glossary:
+# 2\. Definitions and Glossary
 
 Cookies \- constitute small files that are stored on your Device.  
 Device \- refers to either a computer or a mobile device.  
@@ -18,11 +18,11 @@ Usage Data \- refers to data automatically collected, either generated through t
 User \- denotes an individual utilizing our Service, corresponding to the Data Subject, who is the focus of Personal Data.  
 Websites \- denote the web pages located at [www.FETCH.ai](http://www.fetch.ai/).
 
-# 3\. The Data Controller:
+# 3\. The Data Controller
 
 “Company” is the controller of your Personal Data.
 
-# 4\. Information Collection and Use:
+# 4\. Information Collection and Use
 
 We gather multiple categories of information for diverse objectives aimed at delivering and enhancing our Service for your benefit.
 
